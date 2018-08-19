@@ -1,15 +1,14 @@
 # Site settings
-title: 
+author: Allison Tearjen
+title: Uncut Coder
 header-img: img/home-bg.png
 email: amtearjen@ucdavis.edu
-copyright_name: atearjen
+copyright_name: Allison Tearjen
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Here lies a women and what is written between her lines of code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  atearjen
-learn_profile: atearjen
-email_username: amtearjen@ucdavis.edu
 
 # Build settings
 markdown: kramdown
